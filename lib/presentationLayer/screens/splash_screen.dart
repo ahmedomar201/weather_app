@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_native_splash/flutter_native_splash.dart';
 import '../../core/utils/images.dart';
-import 'Home _screen.dart';
+import 'home _screen.dart';
 
 class SplashScreen extends StatefulWidget {
   const SplashScreen({super.key});
